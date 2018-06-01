@@ -15,6 +15,7 @@ define(
             eot2ttf: require('./ttf/eot2ttf'),
             ttf2woff: require('./ttf/ttf2woff'),
             woff2ttf: require('./ttf/woff2ttf'),
+            woff22ttf: require('./ttf/woff22ttf'),
             ttf2svg: require('./ttf/ttf2svg'),
             svg2ttfobject: require('./ttf/svg2ttfobject'),
             Reader: require('./ttf/reader'),
